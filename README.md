@@ -7,6 +7,9 @@
 
   <p>
     <strong>Self-taught programmer</strong> with a wide range of knowledge across the stack.<br>
+    <a href="https://polsox.vercel.app/" style="color: #007bff; font-weight: bold;">
+      Visit my new blog!
+    </a>
   </p>
 
   <!-- Fun status / typing effect or just bold tags -->
