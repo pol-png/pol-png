@@ -44,6 +44,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pol-png&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pol-png&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pol-png&show_icons=true&theme=tokyonight&count_private=true" height="180" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pol-png&theme=tokyonight" height="180" width="400"/>
 </div>
