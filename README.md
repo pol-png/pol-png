@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**pol-png/pol-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="220">
+      <img src="https://i.imgur.com/MWZR2uV.gif" width="200px" height="200px">
+    </td>
+    <td>
+      <h2 align="left">Hi, I'm pol 👋</h2>
+      <p align="left">Self-taught programmer with a variety of experience in different things.</p>
+      <p align="left"><strong>Current Project:</strong> Rage:MP server (TypeScript + Vue)</p>
+    </td>
+  </tr>
+</table>
+</div>
