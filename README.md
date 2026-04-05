@@ -19,19 +19,22 @@
 ---
 
 ### 🚀 Current Project
-**Rage:MP Server** — Built with **TypeScript** and **Vue**. A modern roleplay server with clean architecture and smooth UI.
+**Rage:MP Server** — Built with **TypeScript** and **Vue**. A modern take on an old Cops and Robbers styled server.
 
-
-### ⚰️ Past Projects
-- **[CLI-Project-Timer](https://github.com/pol-png/project-time-tracker-cli)** - A project tracker created to meet my needs.
-- **Roleplay Gamemode (SA:MP)** — Upkeep and improvement of an existing project.
-- **Golfing Game (Unity)** - A project that's still on-hold.
-- **FPS Horror Experience (Unity)** - On-hold as well.
+### :headstone: Past Projects
+- **[CLI-Project-Timer](https://github.com/pol-png/project-time-tracker-cli)**: A project time tracker created to meet my needs.
+- **Unity Projects**: Various unity projects which have never seen release, still hoping to get a game out.
+- **SA:MP Gamemodes**: Worked on various servers ranging from Cops and Robbers to Roleplay.
+  - Focused mainly on **maintaining and improving** existing projects rather than launching new ones.
 
 ### 🛠️ Tech & Tools I'm Into
-- **Languages**: TypeScript, JavaScript, Pawn (from SA:MP days), C#, Python
-- **Frontend**: Vue.js, React, HTML
-- **Backend/Game Dev**: Node.js, Rage:MP, Unity, Godot, Blender
+- **Languages**: C#, TypeScript, JavaScript, Pawn (from SA:MP days), Python
+- **Frontend**: Vue.js, HTML
+- **Backend/Game Dev**: Node.js, Rage:MP
+- **Tools:**
+  - **Editor:** Zed Editor :fire:
+  - **Game Engines:** Unity, Godot
+  - **Creativity:** Blender, Substance Painter, Photoshop
 - **Other**: Always trying to improve.
 
 
